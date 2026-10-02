@@ -1,2 +1,2 @@
 # sih-smart-shelter-by-muditya
-A Python-based AI personal assistant with API integration, voice/text commands, automation, and system interaction
+Software-based thermal comfort analysis and optimization model for area-specific shelters in high-altitude cold regions.
